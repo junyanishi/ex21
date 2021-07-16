@@ -1,7 +1,7 @@
 {
     "name": "Python Basic Project",
     "dockerComposeFile": "docker-compose.yml",
-    "servive": "python",
+    "service": "python",
     "workspaceFolder": "/tmp/work",
     "extensions": [
         "ms-python.python"
